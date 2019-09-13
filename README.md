@@ -4,7 +4,7 @@ Paranoid text spacing for good readability, to automatically insert whitespace b
 
 **The function button is located in the *Tools-Anki Pangu***. When you learning cards, you can trigger functions by clicking on them.
 
-**Tips: Don't modify database data**
+**Tips: It does not modify database data.**
 
 
 # Usage Effect
