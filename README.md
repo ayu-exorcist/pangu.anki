@@ -2,7 +2,7 @@
 
 Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols).
 
-**The function button is located in the *Tools-Anki Pangu***. When you learn cards, you can trigger their functions by clicking on them.
+**The function button is located in the *Tools-Anki Pangu***. When you learning cards, you can trigger functions by clicking on them.
 
 **Tips: Don't modify database data**
 
