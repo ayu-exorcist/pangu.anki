@@ -1,11 +1,11 @@
 {
-    "plugin_name": "anki_pangu",
+    "plugin_name": "pangu.anki",
     "plugin_menu": {
-        "name": "Anki Pangu",
+        "name": "God of Space",
         "actions": {
             "auto_space": {
                 "name": "我要自己决定什么时候加空格",
-                "en_name": "Space False",
+                "en_name": "AutoSpace False",
                 "flag": false,
                 "shortcut": "Ctrl+Alt+Space"
             },

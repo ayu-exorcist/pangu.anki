@@ -84,15 +84,15 @@ def _set_auto_space_name(flag):
     auto_space_flag = flag
     if auto_space_flag is True:
         auto_space_name = "卡片载入后自动帮我加上空格"
-        auto_space_en_name = "Space True"
+        auto_space_en_name = "AutoSpace True"
     else:
         auto_space_name = "我要自己决定什么时候要加空格"
-        auto_space_en_name = "Space False"
+        auto_space_en_name = "AutoSpace False"
 
     auto_space = get_auto_space()
     auto_space["name"] = auto_space_name
     auto_space["en_name"] = auto_space_en_name
-    showInfo(("设置`%s`成功！" % auto_space_name if lang == "zh_CN" else "Set up `%s` successfully!" % auto_space_en_name))
+    showInfo(('设置"%s"成功！' % auto_space_name if lang == "zh_CN" else 'Set up "%s" successfully!' % auto_space_en_name))
 
 
 def set_auto_space(flag):
